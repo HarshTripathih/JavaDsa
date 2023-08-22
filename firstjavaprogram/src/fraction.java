@@ -9,8 +9,6 @@ public class fraction {
         double num = a.nextDouble();
         System.out.println("---");
         double den = a.nextInt();
-
-
     }
 }
 
